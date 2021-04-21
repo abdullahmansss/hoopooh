@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "575230014062",
+    "project_id": "hoopooh-app",
+    "storage_bucket": "hoopooh-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575230014062:android:90370f920d52a324182c7f",
+        "android_client_info": {
+          "package_name": "com.hoopooh.hoopooh_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575230014062-fjd2ob132n72uei9vqlbjfthoe5kik3c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.hoopooh.hoopooh_app",
+            "certificate_hash": "cd5f1fa2fb07b653095aafab44c32bc046338ddf"
+          }
+        },
+        {
+          "client_id": "575230014062-0diskq71e7eqmn2at4a2j7c8d7gk60nr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBymReDSmoF_WQy94hYyMpC-nsXAWyx9iM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575230014062-0diskq71e7eqmn2at4a2j7c8d7gk60nr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
